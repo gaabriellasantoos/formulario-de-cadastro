@@ -9,7 +9,8 @@ function Validar(){
     let numero = document.getElementById('numero').value;
     let senha = document.getElementById('senha').value;
     let Bairro = document.getElementById('Bairro').value;
-    let estado = document.getElementById('estado').value;
+    let estado = document.getElementById('estado').value; 
+    
 
 
     if(!email || !nome || !telefone || !data || !CPF || !cidade || !rua || !numero || !senha || !Bairro || !estado){
