@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+h1{
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+
+form{
+    position: relative;
+    left: -100px;
+    top: 200px;
+}
